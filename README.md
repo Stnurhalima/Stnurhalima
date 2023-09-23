@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently Studyng
+- 🔭 I’m currently Studying
 - 🌱 I’m currently learning Universitas Bumigora
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with Allah SWT
